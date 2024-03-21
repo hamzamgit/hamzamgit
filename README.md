@@ -9,8 +9,7 @@
 -------------------
 &emsp;
 
-- 🔭 I’m currently working with [SingleRuleBook](https://singlerulebook.com/) as Senior Software Engineer. 
-- 📚 I'm also doing the [Immersive Engineering Course](https://github.com/CodeYourFuture/immersive-go-course), a program aimed at Site Reliability Engineering designed by CodeYourFuture in partnership with [Slack](https://slack.com/).
+- 📚 I'm doing the [Immersive Engineering Course](https://github.com/CodeYourFuture/immersive-go-course), a program aimed at Site Reliability Engineering designed by CodeYourFuture in partnership with [Slack](https://slack.com/).
 
 - 🌱 I’m currently learning **DataScience, Observability & Monitoring of Distributed Systems, Deep Learning**
 
